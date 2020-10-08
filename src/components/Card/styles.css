@@ -1,0 +1,83 @@
+#card {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    padding: 45px;
+    margin-top: -60px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #F0F0F0;
+    box-shadow: 19px 18px 6px -15px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+}
+
+#card a {
+    background: var(--primary-color);
+    border-radius: 8px;
+    color: #FFF;
+    font-weight: bold;
+    font-size: 16px;
+    border: 0;
+    padding: 20px 22px;
+    transition: background-color 0.2s;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    margin: 20px 10px;
+}
+  
+#card a:hover {
+    background: #dc5757;
+}
+
+#card ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#card ul li{
+    margin-bottom: .3em;
+}
+
+#card ul li svg{
+    height: 1.2em;
+    width: 1.2em;
+    margin-right: .5em;
+}
+
+#card h1{
+    text-align: right;
+    font-size: 3rem;
+}
+
+#card h5{
+    text-align: right;
+    font-size: 1.5rem;
+    text-decoration: line-through;
+}
+
+#card p{
+    text-align: right;
+    font-size: 1rem;
+}
+
+#card .data{
+    margin-top: 10px;
+    font-size: 1.3rem;
+    text-align: center;
+}
+
+@media only screen and (max-width: 768px) {
+
+  }
+
+  @media only screen and (max-width: 425px) {
+    #card h1 {
+        font-size: 2.2em;
+    }
+    #card ul li{
+        margin-bottom: .3em;
+        font-size: .9em;
+    }
+  }

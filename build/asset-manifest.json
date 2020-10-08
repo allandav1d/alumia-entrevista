@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.322e2e3c.chunk.css",
+    "main.js": "/static/js/main.288c85b7.chunk.js",
+    "main.js.map": "/static/js/main.288c85b7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.05749f71.js",
+    "runtime-main.js.map": "/static/js/runtime-main.05749f71.js.map",
+    "static/js/2.d32cd764.chunk.js": "/static/js/2.d32cd764.chunk.js",
+    "static/js/2.d32cd764.chunk.js.map": "/static/js/2.d32cd764.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a08e347fc6155e0b04939aaf72356a76.js": "/precache-manifest.a08e347fc6155e0b04939aaf72356a76.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.322e2e3c.chunk.css.map": "/static/css/main.322e2e3c.chunk.css.map",
+    "static/js/2.d32cd764.chunk.js.LICENSE.txt": "/static/js/2.d32cd764.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/static/media/background.21e51d98.png",
+    "static/media/logo.svg": "/static/media/logo.641e9a19.svg",
+    "static/media/professorProfile.jpg": "/static/media/professorProfile.0f62a965.jpg",
+    "static/media/video_demo.mp4": "/static/media/video_demo.3b27ad23.mp4",
+    "static/media/video_demo.ogg": "/static/media/video_demo.d9636fdd.ogg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05749f71.js",
+    "static/js/2.d32cd764.chunk.js",
+    "static/css/main.322e2e3c.chunk.css",
+    "static/js/main.288c85b7.chunk.js"
+  ]
+}
